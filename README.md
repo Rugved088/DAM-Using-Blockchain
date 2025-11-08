@@ -1,4 +1,4 @@
-# 📦 Digital Asset Management using Blockchain
+# 📦 DAM[Digital Asset Management] using Blockchain
 
 This project is a decentralized marketplace built on the **Ethereum blockchain** using **Solidity smart contracts**, the **Truffle framework**, and a **React frontend**. It allows users to **buy and sell digital assets** securely on the blockchain
 
@@ -32,7 +32,7 @@ This project is a decentralized marketplace built on the **Ethereum blockchain**
 
 ```bash
 git clone https://github.com/Rugved088/DAM-Using-Blockchain.git
-cd Digital-Asset-Management-by-using-Blockchain-
+cd DAM-Using-Blockchain
 ```
 
 2. **Install Dependencies:**
